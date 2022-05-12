@@ -1,0 +1,42 @@
+body{
+    background-color: lightpink;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#id{
+font-size: 22px;
+color:turquoise;
+}
+
+#button{
+    background-color: plum;
+    border-radius: 20%;
+    margin-top: 30px;
+    width: 100px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.header_div{
+background-color: aliceblue;
+color: plum;
+}
+
+.header_div p{
+    color: rgb(162, 162, 162);
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.copyright_footer{
+    background-color: rgba(162, 162, 162, 0.787);
+    width: 100%;
+    font-size: 18px;
+    bottom: 0;
+    text-align: center;
+    height: 50px;
+    position: fixed;
+    line-height: 3;
+}
+    
